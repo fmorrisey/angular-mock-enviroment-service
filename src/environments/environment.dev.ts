@@ -1,4 +1,4 @@
-import { MockModule } from "src/app/modules/mock.module";
+import { MockModule } from "../modules/mock.module";
 
 export const environment = {
     production: false,

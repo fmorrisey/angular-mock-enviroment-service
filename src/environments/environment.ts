@@ -1,4 +1,4 @@
-import { ProductionModule } from "src/app/modules/prod.module";
+import { ProductionModule } from "../modules/prod.module";
 
 export const environment = {
     production: true,

@@ -1,6 +1,5 @@
-import { Cat } from '../../../models/types';
+import { Cat } from '../../models/types';
 import { Injectable } from '@angular/core';
-import { Observable, of } from 'rxjs';
 import { API_ABSTRACT } from './api.abstract';
 
 const service_string : string = 'Mock Service';

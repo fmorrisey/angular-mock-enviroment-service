@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { API_ABSTRACT } from 'src/app/services/api/api.abstract';
+import { API_ABSTRACT } from '../../services/api/api.abstract';
 
 @Component({
   selector: 'app-dashboard',

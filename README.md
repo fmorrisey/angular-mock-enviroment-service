@@ -7,4 +7,5 @@ Dev mode: `ng serve`
 Production mode: `ng serve --configuration=production`
 
 Data displayed will change based on environment variables
+This is made possible by using abstractions
 
